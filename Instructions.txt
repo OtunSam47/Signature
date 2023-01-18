@@ -1,0 +1,35 @@
+Thank you for downloading our set of free 20 Professional HTML Email Signatures.
+
+****How to edit:****
+
+1. Go to: (https://robust.email/templates?name=signature).
+2. Click on any of the signature template to open it in the editor.
+3. Edit the content by hovering over each item and clicking on it.
+4. Once done editing, click on download and enter "signature" in the purchase code input field.
+5. Your edited signature template will be downloaded!
+
+
+****How to use:****
+
+1. Open your selected signature HTML file in any text/code editor like Notepad/Textmate.
+2. Scroll down to where it says "<!--- Signature start --->".
+3. Copy the code in betweeen signature start and signature end comments.
+4. Paste that code in your email client. For guide on where to paste that code exactly, see the guides below for popular email clients.
+5. Yay! your email signature is now ready to be used.
+
+
+****Signature embedding guides:****
+
+Yahoo! Mail: (https://www.wisestamp.com/yahoo-email-signature/)
+Outlook Web App: (https://www.mccd.edu/brand/downloads/MC-email-2016-owa-final.pdf)
+Gmail Web: (https://mydesignpad.com/how-to-install-html-email-signature-for-google-gmail/)
+Apple Mail: (https://www.daretothink.co.uk/html-email-signature-in-apple-mail/)
+
+For help with setting up on other email clients, feel free to contact us at: contact@robust.email
+
+
+-----------------------------------------------------------------------------------------
+
+Email signature templates by Robust Designs (https://robust.email)
+
+If you like our work, be sure to check out our email templates on Themeforest.net (https://themeforest.net/user/robustemails/portfolio)
